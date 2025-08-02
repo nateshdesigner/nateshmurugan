@@ -1,0 +1,6 @@
+[22-May-2022 17:47:59 UTC] PHP Notice:  Undefined variable: body in /home/nateshmu/public_html/assets/php/email.php on line 15
+[22-May-2022 17:49:24 UTC] PHP Notice:  Undefined variable: body in /home/nateshmu/public_html/assets/php/email.php on line 15
+[23-May-2022 14:45:59 UTC] PHP Notice:  Undefined variable: body in /home/nateshmu/public_html/assets/php/email.php on line 15
+[23-May-2022 15:23:08 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/nateshmu/public_html/assets/php/email.php on line 59
+[23-May-2022 15:39:48 UTC] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home/nateshmu/public_html/assets/php/email.php on line 20
+[23-May-2022 15:44:03 UTC] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home/nateshmu/public_html/assets/php/email.php on line 20
